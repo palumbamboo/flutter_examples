@@ -1,0 +1,4 @@
+#Thu Mar 11 19:34:46 CET 2021
+base.0=/home/daniele/workspace/android/material_color_palette/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

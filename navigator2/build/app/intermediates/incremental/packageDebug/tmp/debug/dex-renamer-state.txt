@@ -1,0 +1,4 @@
+#Mon Mar 15 11:51:16 CET 2021
+base.0=/home/daniele/workspace/android/navigator2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
